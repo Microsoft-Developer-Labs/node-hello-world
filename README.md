@@ -18,3 +18,6 @@ Full Install: `curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -`
 Then: `sudo apt install nodejs -y`
 
 To run server.js on NodeJS just type: `node server.js` in the directory.
+
+To install the packages, go to the directory its in and type
+`npm install express`
