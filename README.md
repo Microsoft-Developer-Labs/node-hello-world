@@ -14,4 +14,5 @@ Running NodeJS in Linux is pretty straight forward. One does semi-node commands,
 
 Half Install: `sudo apt install nodejs -y`
 
-Full Install: \n`curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -`\n Then: \n`sudo apt install nodejs -y`
+Full Install: `curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -`
+Then: `sudo apt install nodejs -y`
