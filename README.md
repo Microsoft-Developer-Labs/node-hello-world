@@ -1,4 +1,5 @@
 # Create Hello World webpage with NodeJS!
+Feel free to copy and share!
 
 NodeJS happens to be a popular web server along side Apache. What NodeJS does is manages webpages with specific libraries to make it faster than any other web server out there.
 
@@ -21,3 +22,5 @@ To run server.js on NodeJS just type: `node server.js` in the directory.
 
 To install the packages, go to the directory its in and type
 `npm install express`
+
+&copy; Microsoft Corporation 2018. All rights reserved.
